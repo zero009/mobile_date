@@ -1,0 +1,92 @@
+header{
+    margin-top: .16rem;
+    background: #fff;
+    font-size: .3rem;
+    color: rgb(50,50,50);
+}
+header div{
+    height: 1.2rem;
+    line-height: 1.3rem;
+    overflow: hidden;
+    margin-left:.2rem;
+    padding-right: .2rem;
+    border-bottom: 1px solid #ddd;
+}
+header div p{
+    width: .96rem;
+    height: .96rem;
+    line-height: .96rem;
+    border-radius: 50%;
+    overflow: hidden;
+    float: right;
+    margin-top: .12rem;
+}
+section{
+    border-bottom: 1px solid #ddd;
+    background: #fff;
+}
+section p,.demo{
+    border-bottom: 1px solid #ddd;
+    margin-left: .2rem;
+    height: .88rem;
+    line-height: .88rem;
+    position: relative;
+    font-size: .3rem;
+    color: rgb(50,50,50);
+}
+ .demo{
+	border:none;
+}
+section p:nth-last-child(1){
+    border: none;
+}
+section p span{
+    float: right;
+	font-size:.3rem;
+    color: rgb(100,100,100);
+    margin-right: .2rem;
+}
+section p span input{
+	text-indent:1.55rem;
+	font-size:.3rem;
+	color:rgb(100,100,100);
+}
+.demo .lie  input,section:nth-of-type(2) input{
+	position:absolute;
+	right:0;
+	width:29%;
+	overflow:hidden;			
+	font-size: .3rem;
+	color: rgb(100,100,100);			 
+	margin-top: .25rem;
+}
+section:nth-of-type(2) input{
+   width:33.5%; 
+}	  
+.mobile{
+   margin-right:.22rem;
+}
+
+.disease_choose{
+    float: right;
+    font-size: .3rem;
+    color: rgb(100,100,100);
+    margin-top: .25rem;
+    margin-right: .2rem;
+    background: none;
+    border: none;
+    appearance:none;
+    -webkit-appearance:none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.btn{
+    width: 5.46rem;
+    height: .8rem ;
+    line-height: .8rem;
+    background: #9b3539;
+    text-align: center;
+    font-size: .3rem;
+    color: #fff;
+    border-radius: 4px;
+    margin: 2.2rem auto 1.2rem auto;
+}
