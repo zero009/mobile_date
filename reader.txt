@@ -1,3 +1,3 @@
-1¡¢index ¶Ô¸÷¸ö²»Í¬·Ö±æÂÊµÄÊÖ»ú½øĞĞÁËÊÊÅä¡¢ÒıÓÃÁËjquery.min.js ºÍ iscroll.js ÎÄ¼ş£¬²¢¶ÔÈÕÆÚ½øĞĞÁË×é¼ş·â×°µ¥¶À½¨Á¢ÁËdate.css¡¢date.js£¬Ê¹Æä¿ÉÒÔµ¥¶ÀÊ¹ÓÃ£¬µ«¸Ã×é¼şÊ¹ÓÃµÄpx×÷Îªµ¥Î»£¬
+1ã€index å¯¹å„ä¸ªä¸åŒåˆ†è¾¨ç‡çš„æ‰‹æœºè¿›è¡Œäº†é€‚é…ã€å¼•ç”¨äº†jquery.min.js å’Œ iscroll.js æ–‡ä»¶ï¼Œå¹¶å¯¹æ—¥æœŸè¿›è¡Œäº†ç»„ä»¶å°è£…å•ç‹¬å»ºç«‹äº†date.cssã€date.jsï¼Œä½¿å…¶å¯ä»¥å•ç‹¬ä½¿ç”¨
 
-2¡¢index2 ÒıÓÃÁË jqueryMobile.css¡¢jquery.js¡¢jqueryMobile.js¡¢mobiscroll.css¡¢mobiscroll.js  ±È½Ï·±Ëö£¬ÇÒÎÄ¼ş¹ı´ó£¬Ã»ÓĞ½øĞĞÊÊÅä
+2ã€index2 å¼•ç”¨äº† jqueryMobile.cssã€jquery.jsã€jqueryMobile.jsã€mobiscroll.cssã€mobiscroll.js  æ¯”è¾ƒç¹çï¼Œä¸”æ–‡ä»¶è¿‡å¤§ï¼Œæ²¡æœ‰è¿›è¡Œé€‚é…
