@@ -1,3 +1,7 @@
 1、index 对各个不同分辨率的手机进行了适配、引用了jquery.min.js 和 iscroll.js 文件，并对日期进行了组件封装单独建立了date.css、date.js，使其可以单独使用
 
 2、index2 引用了 jqueryMobile.css、jquery.js、jqueryMobile.js、mobiscroll.css、mobiscroll.js  比较繁琐，且文件过大，没有进行适配
+
+3、利用html.fontSize.js对根html的字体大小进行了设置，采用rem搭配百分比进行适配
+
+4、需在真机上进行调试，chrome浏览器自带的移动调试工具有些微的差距
